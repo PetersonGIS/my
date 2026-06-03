@@ -696,29 +696,29 @@
     "height": 21,
     "pixelRatio": 1,
     "width": 23,
-    "x": 174,
-    "y": 260
+    "x": 132,
+    "y": 490
   },
   "dark_oneway_arrow_minor": {
     "height": 21,
     "pixelRatio": 1,
     "width": 23,
-    "x": 196,
-    "y": 486
+    "x": 155,
+    "y": 490
   },
   "dark_oneway_arrow_tunnel_major": {
     "height": 13,
     "pixelRatio": 1,
     "width": 18,
-    "x": 544,
-    "y": 44
+    "x": 672,
+    "y": 346
   },
   "dark_oneway_arrow_tunnel_minor": {
     "height": 13,
     "pixelRatio": 1,
     "width": 18,
-    "x": 219,
-    "y": 486
+    "x": 544,
+    "y": 44
   },
   "dark_planned_route_end": {
     "height": 64,
@@ -815,8 +815,8 @@
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 174,
-    "y": 281
+    "x": 178,
+    "y": 490
   },
   "dark_record_start": {
     "height": 28,
@@ -929,6 +929,83 @@
     "width": 40,
     "x": 736,
     "y": 40
+  },
+  "topo-dark_access_mtb_imba0": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 174,
+    "y": 260
+  },
+  "topo-dark_access_mtb_imba1": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 196,
+    "y": 486
+  },
+  "topo-dark_access_mtb_imba2": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 222,
+    "y": 486
+  },
+  "topo-dark_access_mtb_imba3": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 662,
+    "y": 402
+  },
+  "topo-dark_access_mtb_imba4": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 662,
+    "y": 428
+  },
+  "topo-dark_access_mtb_scale_s0": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 670,
+    "y": 364
+  },
+  "topo-dark_access_mtb_scale_s1": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 672,
+    "y": 320
+  },
+  "topo-dark_access_mtb_scale_s2": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 688,
+    "y": 390
+  },
+  "topo-dark_access_mtb_scale_s3": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 696,
+    "y": 346
+  },
+  "topo-dark_access_mtb_scale_s4": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 698,
+    "y": 320
+  },
+  "topo-dark_access_mtb_scale_s5": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 708,
+    "y": 240
   },
   "topo-dark_cliff_hachure": {
     "height": 36,
