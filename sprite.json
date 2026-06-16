@@ -693,11 +693,11 @@
     "y": 216
   },
   "dark_military_private": {
-    "height": 14,
+    "height": 18,
     "pixelRatio": 1,
-    "width": 14,
-    "x": 725,
-    "y": 484
+    "width": 18,
+    "x": 178,
+    "y": 490
   },
   "dark_oneway_arrow_major": {
     "height": 21,
@@ -717,15 +717,15 @@
     "height": 13,
     "pixelRatio": 1,
     "width": 18,
-    "x": 592,
+    "x": 608,
     "y": 304
   },
   "dark_oneway_arrow_tunnel_minor": {
     "height": 13,
     "pixelRatio": 1,
     "width": 18,
-    "x": 610,
-    "y": 304
+    "x": 600,
+    "y": 44
   },
   "dark_planned_route_end": {
     "height": 64,
@@ -815,15 +815,15 @@
     "height": 14,
     "pixelRatio": 1,
     "width": 14,
-    "x": 725,
-    "y": 498
+    "x": 618,
+    "y": 44
   },
   "dark_record_split": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 178,
-    "y": 490
+    "x": 592,
+    "y": 304
   },
   "dark_record_start": {
     "height": 28,
