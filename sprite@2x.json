@@ -272,6 +272,13 @@
     "x": 848,
     "y": 512
   },
+  "dark-topo_poi_startpoint_microdot": {
+    "height": 32,
+    "pixelRatio": 2,
+    "width": 32,
+    "x": 1184,
+    "y": 608
+  },
   "dark-topo_poi_startpoint_mtb": {
     "height": 128,
     "pixelRatio": 2,
@@ -710,15 +717,15 @@
     "height": 26,
     "pixelRatio": 2,
     "width": 36,
-    "x": 1216,
-    "y": 608
+    "x": 1200,
+    "y": 88
   },
   "dark_oneway_arrow_tunnel_minor": {
     "height": 26,
     "pixelRatio": 2,
     "width": 36,
-    "x": 1200,
-    "y": 88
+    "x": 1406,
+    "y": 848
   },
   "dark_planned_route_end": {
     "height": 128,
@@ -822,7 +829,7 @@
     "height": 32,
     "pixelRatio": 2,
     "width": 32,
-    "x": 1184,
+    "x": 1216,
     "y": 608
   },
   "dark_record_start": {
