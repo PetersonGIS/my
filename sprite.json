@@ -31,99 +31,99 @@
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 193,
-    "y": 128
+    "x": 250,
+    "y": 48
   },
   "light-topo_poi_art": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
     "x": 193,
-    "y": 192
+    "y": 188
   },
   "light-topo_poi_attraction": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
     "x": 200,
-    "y": 256
+    "y": 252
   },
   "light-topo_poi_bar": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
     "x": 249,
-    "y": 128
+    "y": 188
   },
   "light-topo_poi_basic_hut": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 249,
-    "y": 192
+    "x": 253,
+    "y": 112
   },
   "light-topo_poi_beach": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 250,
-    "y": 60
+    "x": 306,
+    "y": 0
   },
   "light-topo_poi_bench": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
     "x": 256,
-    "y": 256
+    "y": 252
   },
   "light-topo_poi_bicycle_repair_station": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 260,
-    "y": 320
+    "x": 305,
+    "y": 176
   },
   "light-topo_poi_bike_share": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 310,
-    "y": 384
+    "x": 309,
+    "y": 64
   },
   "light-topo_poi_bike_shop": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 310,
-    "y": 448
+    "x": 362,
+    "y": 0
   },
   "light-topo_poi_cave_entrance": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 305,
-    "y": 124
+    "x": 260,
+    "y": 316
   },
   "light-topo_poi_coffee": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 305,
-    "y": 188
+    "x": 312,
+    "y": 240
   },
   "light-topo_poi_defibrillator_or_first_aid": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 312,
-    "y": 252
+    "x": 361,
+    "y": 128
   },
   "light-topo_poi_dog_park": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 316,
-    "y": 316
+    "x": 365,
+    "y": 64
   },
   "light-topo_poi_dropped_pin": {
     "height": 96,
@@ -136,71 +136,71 @@
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 366,
-    "y": 380
+    "x": 418,
+    "y": 0
   },
   "light-topo_poi_gas_station": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 366,
-    "y": 444
+    "x": 310,
+    "y": 380
   },
   "light-topo_poi_generic": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 306,
-    "y": 0
+    "x": 310,
+    "y": 444
   },
   "light-topo_poi_grocery": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 361,
-    "y": 64
+    "x": 316,
+    "y": 304
   },
   "light-topo_poi_hot_spring": {
-    "height": 64,
-    "pixelRatio": 1,
-    "width": 56,
-    "x": 362,
-    "y": 0
-  },
-  "light-topo_poi_lean_to": {
-    "height": 64,
-    "pixelRatio": 1,
-    "width": 56,
-    "x": 361,
-    "y": 128
-  },
-  "light-topo_poi_outdoor_store": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
     "x": 368,
     "y": 192
   },
-  "light-topo_poi_park": {
-    "height": 64,
-    "pixelRatio": 1,
-    "width": 56,
-    "x": 417,
-    "y": 64
-  },
-  "light-topo_poi_parking": {
-    "height": 64,
-    "pixelRatio": 1,
-    "width": 56,
-    "x": 418,
-    "y": 0
-  },
-  "light-topo_poi_photos": {
+  "light-topo_poi_lean_to": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
     "x": 417,
     "y": 128
+  },
+  "light-topo_poi_outdoor_store": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 56,
+    "x": 421,
+    "y": 64
+  },
+  "light-topo_poi_park": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 56,
+    "x": 474,
+    "y": 0
+  },
+  "light-topo_poi_parking": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 56,
+    "x": 366,
+    "y": 368
+  },
+  "light-topo_poi_photos": {
+    "height": 64,
+    "pixelRatio": 1,
+    "width": 56,
+    "x": 366,
+    "y": 432
   },
   "light-topo_poi_picnic_shelter": {
     "height": 64,
@@ -221,21 +221,21 @@
     "pixelRatio": 1,
     "width": 56,
     "x": 473,
-    "y": 64
+    "y": 128
   },
   "light-topo_poi_ranger_station": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 474,
-    "y": 0
+    "x": 477,
+    "y": 64
   },
   "light-topo_poi_restaurant": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 473,
-    "y": 128
+    "x": 530,
+    "y": 0
   },
   "light-topo_poi_rock_shelter": {
     "height": 64,
@@ -271,6 +271,13 @@
     "width": 57,
     "x": 253,
     "y": 426
+  },
+  "light-topo_poi_startpoint_microdot": {
+    "height": 16,
+    "pixelRatio": 1,
+    "width": 16,
+    "x": 284,
+    "y": 32
   },
   "light-topo_poi_startpoint_mtb": {
     "height": 64,
@@ -312,21 +319,21 @@
     "pixelRatio": 1,
     "width": 56,
     "x": 529,
-    "y": 64
+    "y": 128
   },
   "light-topo_poi_visitor_center": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 530,
-    "y": 0
+    "x": 533,
+    "y": 64
   },
   "light-topo_poi_water_source": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 529,
-    "y": 128
+    "x": 586,
+    "y": 0
   },
   "light-topo_poi_weather_shelter": {
     "height": 64,
@@ -346,8 +353,8 @@
     "height": 60,
     "pixelRatio": 1,
     "width": 60,
-    "x": 209,
-    "y": 0
+    "x": 193,
+    "y": 128
   },
   "light-topo_trophy_02_2x": {
     "height": 68,
@@ -430,287 +437,287 @@
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 260,
-    "y": 384
+    "x": 570,
+    "y": 472
   },
   "light_custom_waypoint_alert": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 200,
-    "y": 320
-  },
-  "light_custom_waypoint_art": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 478,
-    "y": 472
-  },
-  "light_custom_waypoint_attraction": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 518,
-    "y": 472
-  },
-  "light_custom_waypoint_bar": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 628,
     "y": 236
   },
-  "light_custom_waypoint_beach": {
+  "light_custom_waypoint_art": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 636,
     "y": 192
   },
-  "light_custom_waypoint_bike_shop": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 641,
-    "y": 64
-  },
-  "light_custom_waypoint_checkpoint": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 642,
-    "y": 0
-  },
-  "light_custom_waypoint_coffee": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 641,
-    "y": 104
-  },
-  "light_custom_waypoint_distance_marker": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 641,
-    "y": 144
-  },
-  "light_custom_waypoint_gas_station": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 610,
-    "y": 388
-  },
-  "light_custom_waypoint_generic": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 610,
-    "y": 428
-  },
-  "light_custom_waypoint_grocery": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 610,
-    "y": 468
-  },
-  "light_custom_waypoint_lodging": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 650,
-    "y": 388
-  },
-  "light_custom_waypoint_meeting_spot": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 654,
-    "y": 344
-  },
-  "light_custom_waypoint_park": {
-    "height": 40,
-    "pixelRatio": 1,
-    "width": 40,
-    "x": 666,
-    "y": 276
-  },
-  "light_custom_waypoint_parking": {
+  "light_custom_waypoint_attraction": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 668,
     "y": 232
   },
-  "light_custom_waypoint_restaurant": {
+  "light_custom_waypoint_bar": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 641,
+    "y": 128
+  },
+  "light_custom_waypoint_beach": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
     "x": 676,
-    "y": 184
+    "y": 168
+  },
+  "light_custom_waypoint_bike_shop": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 645,
+    "y": 64
+  },
+  "light_custom_waypoint_checkpoint": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 681,
+    "y": 104
+  },
+  "light_custom_waypoint_coffee": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 685,
+    "y": 64
+  },
+  "light_custom_waypoint_distance_marker": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 698,
+    "y": 0
+  },
+  "light_custom_waypoint_gas_station": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 658,
+    "y": 388
+  },
+  "light_custom_waypoint_generic": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 662,
+    "y": 336
+  },
+  "light_custom_waypoint_grocery": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 670,
+    "y": 272
+  },
+  "light_custom_waypoint_lodging": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 708,
+    "y": 208
+  },
+  "light_custom_waypoint_meeting_spot": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 716,
+    "y": 144
+  },
+  "light_custom_waypoint_park": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 721,
+    "y": 104
+  },
+  "light_custom_waypoint_parking": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 725,
+    "y": 40
+  },
+  "light_custom_waypoint_restaurant": {
+    "height": 40,
+    "pixelRatio": 1,
+    "width": 40,
+    "x": 738,
+    "y": 0
   },
   "light_custom_waypoint_segment_end": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 650,
+    "x": 658,
     "y": 428
   },
   "light_custom_waypoint_segment_start": {
     "height": 38,
     "pixelRatio": 1,
     "width": 38,
-    "x": 730,
-    "y": 396
+    "x": 698,
+    "y": 456
   },
   "light_custom_waypoint_transition_zone": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 650,
+    "x": 658,
     "y": 468
   },
   "light_custom_waypoint_viewpoint": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 690,
-    "y": 384
+    "x": 698,
+    "y": 376
   },
   "light_custom_waypoint_water_source": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 694,
-    "y": 316
+    "x": 702,
+    "y": 312
   },
   "light_directional_arrow": {
     "height": 32,
     "pixelRatio": 1,
     "width": 20,
-    "x": 240,
-    "y": 320
+    "x": 284,
+    "y": 0
   },
   "light_effort_climb_2x": {
     "height": 38,
     "pixelRatio": 1,
     "width": 38,
-    "x": 730,
-    "y": 434
+    "x": 736,
+    "y": 456
   },
   "light_effort_pace_2x": {
     "height": 38,
     "pixelRatio": 1,
     "width": 38,
-    "x": 730,
-    "y": 472
+    "x": 738,
+    "y": 352
   },
   "light_effort_power_2x": {
     "height": 38,
     "pixelRatio": 1,
     "width": 38,
-    "x": 768,
-    "y": 396
+    "x": 742,
+    "y": 288
   },
   "light_effort_segment_2x": {
     "height": 38,
     "pixelRatio": 1,
     "width": 38,
-    "x": 770,
-    "y": 352
+    "x": 750,
+    "y": 224
   },
   "light_lift_button": {
+    "height": 44,
+    "pixelRatio": 1,
+    "width": 44,
+    "x": 260,
+    "y": 380
+  },
+  "light_lift_cablecar": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
     "x": 372,
     "y": 320
   },
-  "light_lift_cablecar": {
-    "height": 44,
-    "pixelRatio": 1,
-    "width": 44,
-    "x": 306,
-    "y": 64
-  },
   "light_lift_carpet": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 478,
-    "y": 384
+    "x": 309,
+    "y": 128
   },
   "light_lift_chair": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 478,
-    "y": 428
+    "x": 200,
+    "y": 316
   },
   "light_lift_drag": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 522,
-    "y": 384
+    "x": 526,
+    "y": 436
   },
   "light_lift_funicular": {
+    "height": 44,
+    "pixelRatio": 1,
+    "width": 44,
+    "x": 530,
+    "y": 384
+  },
+  "light_lift_gondola": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
     "x": 534,
     "y": 320
   },
-  "light_lift_gondola": {
+  "light_lift_jbar": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
     "x": 540,
     "y": 256
   },
-  "light_lift_jbar": {
-    "height": 44,
-    "pixelRatio": 1,
-    "width": 44,
-    "x": 522,
-    "y": 428
-  },
   "light_lift_mixedlift": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 566,
-    "y": 364
+    "x": 570,
+    "y": 428
   },
   "light_lift_rope": {
+    "height": 44,
+    "pixelRatio": 1,
+    "width": 44,
+    "x": 574,
+    "y": 364
+  },
+  "light_lift_tbar": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
     "x": 578,
     "y": 300
   },
-  "light_lift_tbar": {
-    "height": 44,
-    "pixelRatio": 1,
-    "width": 44,
-    "x": 584,
-    "y": 256
-  },
   "light_oneway_arrow_major": {
     "height": 21,
     "pixelRatio": 1,
     "width": 23,
-    "x": 628,
-    "y": 276
+    "x": 698,
+    "y": 40
   },
   "light_oneway_arrow_minor": {
     "height": 21,
     "pixelRatio": 1,
     "width": 23,
-    "x": 84,
+    "x": 112,
     "y": 68
   },
   "light_planned_route_end": {
@@ -738,92 +745,92 @@
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 592,
-    "y": 192
+    "x": 584,
+    "y": 256
   },
   "light_poi_bus": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 566,
-    "y": 408
+    "x": 592,
+    "y": 192
   },
   "light_poi_light_rail": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 566,
-    "y": 452
+    "x": 614,
+    "y": 408
   },
   "light_poi_metro": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 610,
-    "y": 344
+    "x": 614,
+    "y": 452
   },
   "light_poi_rail": {
     "height": 44,
     "pixelRatio": 1,
     "width": 44,
-    "x": 622,
-    "y": 300
+    "x": 618,
+    "y": 344
   },
   "light_polyline_end": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 269,
-    "y": 0
+    "x": 526,
+    "y": 480
   },
   "light_polyline_hide": {
     "height": 30,
     "pixelRatio": 1,
     "width": 30,
-    "x": 269,
-    "y": 30
+    "x": 774,
+    "y": 428
   },
   "light_polyline_scrub": {
     "height": 28,
     "pixelRatio": 1,
     "width": 28,
-    "x": 666,
-    "y": 316
+    "x": 738,
+    "y": 428
   },
   "light_polyline_start": {
     "height": 28,
     "pixelRatio": 1,
     "width": 28,
-    "x": 694,
-    "y": 356
+    "x": 84,
+    "y": 68
   },
   "light_private": {
     "height": 14,
     "pixelRatio": 1,
     "width": 14,
-    "x": 594,
-    "y": 344
+    "x": 225,
+    "y": 48
   },
   "light_record_split": {
     "height": 16,
     "pixelRatio": 1,
     "width": 16,
-    "x": 578,
-    "y": 344
+    "x": 209,
+    "y": 48
   },
   "light_record_start": {
     "height": 28,
     "pixelRatio": 1,
     "width": 28,
-    "x": 694,
-    "y": 356
+    "x": 84,
+    "y": 68
   },
   "light_segment_indicator_orange_2x": {
     "height": 38,
     "pixelRatio": 1,
     "width": 38,
-    "x": 774,
-    "y": 304
+    "x": 738,
+    "y": 390
   },
   "new_light-topo_poi_camp_site": {
     "height": 64,
@@ -851,69 +858,174 @@
     "pixelRatio": 1,
     "width": 56,
     "x": 585,
-    "y": 64
+    "y": 128
   },
   "new_light-topo_poi_restroom": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 586,
-    "y": 0
+    "x": 589,
+    "y": 64
   },
   "new_light-topo_poi_trailhead": {
     "height": 64,
     "pixelRatio": 1,
     "width": 56,
-    "x": 585,
-    "y": 128
+    "x": 642,
+    "y": 0
   },
   "new_light_custom_waypoint_camp_site": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 706,
-    "y": 272
+    "x": 710,
+    "y": 248
   },
   "new_light_custom_waypoint_monument": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 708,
-    "y": 224
+    "x": 748,
+    "y": 184
   },
   "new_light_custom_waypoint_peak": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 690,
-    "y": 424
+    "x": 756,
+    "y": 144
   },
   "new_light_custom_waypoint_pharmacy": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 690,
-    "y": 464
+    "x": 761,
+    "y": 80
   },
   "new_light_custom_waypoint_rest_area": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 730,
-    "y": 356
+    "x": 765,
+    "y": 40
   },
   "new_light_custom_waypoint_restroom": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 734,
-    "y": 312
+    "x": 778,
+    "y": 0
   },
   "new_light_custom_waypoint_trailhead": {
     "height": 40,
     "pixelRatio": 1,
     "width": 40,
-    "x": 746,
-    "y": 264
+    "x": 698,
+    "y": 416
+  },
+  "topo-light_access_bike": {
+    "height": 52,
+    "pixelRatio": 1,
+    "width": 52,
+    "x": 478,
+    "y": 384
+  },
+  "topo-light_access_mtb_imba0": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 750,
+    "y": 262
+  },
+  "topo-light_access_mtb_imba1": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 776,
+    "y": 262
+  },
+  "topo-light_access_mtb_imba2": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 742,
+    "y": 326
+  },
+  "topo-light_access_mtb_imba3": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 768,
+    "y": 326
+  },
+  "topo-light_access_mtb_imba4": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 780,
+    "y": 288
+  },
+  "topo-light_access_mtb_scale_s0": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 750,
+    "y": 262
+  },
+  "topo-light_access_mtb_scale_s1": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 776,
+    "y": 262
+  },
+  "topo-light_access_mtb_scale_s2": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 742,
+    "y": 326
+  },
+  "topo-light_access_mtb_scale_s3": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 774,
+    "y": 458
+  },
+  "topo-light_access_mtb_scale_s4": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 774,
+    "y": 484
+  },
+  "topo-light_access_mtb_scale_s5": {
+    "height": 26,
+    "pixelRatio": 1,
+    "width": 26,
+    "x": 800,
+    "y": 458
+  },
+  "topo-light_cliff_hachure": {
+    "height": 36,
+    "pixelRatio": 1,
+    "width": 48,
+    "x": 622,
+    "y": 300
+  },
+  "topo-light_cliff_hachure_sparse": {
+    "height": 52,
+    "pixelRatio": 1,
+    "width": 48,
+    "x": 478,
+    "y": 436
+  },
+  "topo-light_route_arrow_new": {
+    "height": 48,
+    "pixelRatio": 1,
+    "width": 75,
+    "x": 209,
+    "y": 0
   }
 }
